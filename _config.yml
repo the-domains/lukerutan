@@ -1,0 +1,28 @@
+name: lukerutan
+favicon: null
+layout_spectrum: 0.639168951427564
+typography_spectrum: 0.6270322096534073
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8867897612508386
+  lightness: 0.3018369898200035
+  saturation: 0.6618836992420256
+  rhythmicContrast: 0.6264159167185426
+purpose: []
